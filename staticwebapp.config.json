@@ -6,5 +6,5 @@
     {
       "route": "/api/vote",
       "allowedRoles": ["authenticated"]
-    }
+    }]
 }
