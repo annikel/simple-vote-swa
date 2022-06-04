@@ -1,5 +1,10 @@
 {
     "navigationFallback": {
         "rewrite": "/index.html"
+    },
+    "routes": [
+    {
+      "route": "/api/vote",
+      "allowedRoles": ["authenticated"]
     }
 }
